@@ -1,0 +1,3 @@
+Extract & Install JDK Check
+Extract & Install Eclipse Check
+Extract & Install Apache Tomcat
